@@ -5,11 +5,10 @@
 
 <head>
 <h1>Como conseguir uma namorada sendo feio</h1>
-<hr>
 </head>
 
 <body>
-  <h1>primeiros passos para conseguir uma namorada</h1>
+  <h2>primeiros passos para conseguir uma namorada</h2>
   <ul>
     <li>tenha uma boa labia, toda mulher gosta de um homem que sabe falar</li>
     <br>
@@ -23,4 +22,7 @@
     <br>
     <li>conquiste os sogros, se conquistar a familia você ganha apoio em tudo que precisar.</li>
    </ul>
+
+ <h4> está lista será constantemente atualizada, então fiquem por dentro das informações lançadas. ative a notificação do site pra ficar por dentro. tchau.</h4>
+
 </body>
