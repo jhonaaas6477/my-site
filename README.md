@@ -10,7 +10,7 @@
 <body>
   <h2>primeiros passos para conseguir uma namorada</h2>
 
-<img src="">
+<img src="https://share.google/f0FePadupMZsJC46r">
 
   <ul>
     <li>tenha uma boa labia, toda mulher gosta de um homem que sabe falar</li>
